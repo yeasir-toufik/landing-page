@@ -40,3 +40,38 @@ body{
 
 
 }
+
+
+.hero{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #1F2937;
+    padding-bottom: 25px;
+
+}
+
+.hero-text h1{
+    color: white;
+    font-size: 48px;
+    font-weight: 900;
+
+}
+
+.hero-text p {
+    font-size: 18px;
+    color: #E5E7EB;
+
+}
+
+.hero-text button{
+    background: #1E90FF;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 12px;
+
+}
+
+.hero-image{
+
+}
